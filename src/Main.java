@@ -12,7 +12,7 @@ import java.io.InputStream;
 public class Main {
     public static void main(String[] args) throws IOException {
         String repositoryUrl = "https://github.com/LSuter22/Hardcoded_Auth_Admin/archive/master.zip"; // Replace with your repository URL
-        String accessToken = "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"; // Replace with your GitHub access token
+        String accessToken = "Access Token Here"; // Replace with your GitHub access token
         String savePath = "/Users/lukesuter/Desktop/repository.zip"; // Replace with the desired save path
 
         CloseableHttpClient httpClient = HttpClients.createDefault();
