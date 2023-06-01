@@ -1,0 +1,4 @@
+branchURLList=https://api.github.com/repos/LSuter22/Hardcoded_Auth_Admin/branches/masterFHTBSUTHRGSFRGHJREASDFVHTGBFSEEQQSD
+repoNameList=Hardcoded_Auth_AdminTestFHTBSUTHRGSFRGHJREASDFVHTGBFSEEQQSD
+repoURLList=https://github.com/LSuter22/Hardcoded_Auth_Admin/archive/master.zipFHTBSUTHRGSFRGHJREASDFVHTGBFSEEQQSD
+savePathList=C:\Users\losut\OneDrive\backups\Hardcoded_Auth_Admin.zipFHTBSUTHRGSFRGHJREASDFVHTGBFSEEQQSD
